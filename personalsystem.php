@@ -80,6 +80,8 @@ include_once("includes/code_header.php");
 	echo $languagear[$a];
 	}
 	
+	$newccAddress = implode($languagear);
+	
 ?>
  
  
